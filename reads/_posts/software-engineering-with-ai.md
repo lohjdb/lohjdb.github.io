@@ -3,6 +3,7 @@ layout: post
 title: "Software engineering in the age of AI"
 categories: 
 - musings
+- reads
 author:
 - bljd
 meta: "Springfield"
