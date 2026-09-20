@@ -1,11 +1,11 @@
 title: statstudent
 author:
-  name: Benedict Loh
-  email: benedict_loh@hotmail.com
+  name: ljdb
+  email: benedictloh@u.nus.edu
 description: >- # this means to ignore newlines until "base_url:"
-  Hi, my name is Benedict. I use this space to document my personal and professional life. 
-base_url: "/benedictlohjd.github.io"
-url: "https://benedictlohjd.github.io"
+  <placeholder> 
+base_url: "/lohjdb.github.io"
+url: "https://lohjdb.github.io"
 # destination: ./gh-pages
 
 show_excerpts: false # set to true to show excerpts on the homepage
@@ -17,8 +17,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: benelohh
-    github:  benedictlohjd
+    # twitter: benelohh
+    # github:  benedictlohjd
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
